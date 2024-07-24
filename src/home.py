@@ -20,7 +20,7 @@ class HomePage(tk.Frame):
         self.url_upload_button = "big_upload_url_button.png"
         self.pfp = self.user_info.pfp_user
 
-        self.api_key = "249bfb34bf7c8d836920725a1f54062d777e4c86126a33439f0eff12db97cc76"
+        self.api_key = ""
 
         self.canvas = Canvas(
             self,
